@@ -22,7 +22,7 @@ Buy Survivng the Apocalytpic Society here
 
 + [NotionPress](https://notionpress.com/read/surviving-the-apocalyptic-society)
 + [Amazon](https://www.amazon.com/Surviving-Apocalyptic-Society-Mohmod-Irfan/dp/B0B7HSRJ8V/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1671269037&sr=8-1)
-* [Flipkart](https://www.flipkart.com/search?q=surviving+the+apocalyptic+society&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_1_25_na_na_ps&otracker1=AS_Query_OrganicAutoSuggest_1_25_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=surviving+the+apocalyptic+society&requestId=ce6ed659-fb02-4648-b1e3-9c18b42de514&as-backfill=on)
++ [Flipkart](https://www.flipkart.com/search?q=surviving+the+apocalyptic+society&as=on&as-show=on&otracker=AS_Query_OrganicAutoSuggest_1_25_na_na_ps&otracker1=AS_Query_OrganicAutoSuggest_1_25_na_na_ps&as-pos=1&as-type=RECENT&suggestionId=surviving+the+apocalyptic+society&requestId=ce6ed659-fb02-4648-b1e3-9c18b42de514&as-backfill=on)
 
 ## Other Interests
 
@@ -32,10 +32,17 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 ## Contact
 
 _LinkedIn_ - [Mohmod Irfan Shah](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/)
+
 _Instagram_ - [Mohmod Irfan Shah](https://www.instagram.com/mohmodirfanshah)
+
 _Facebook_ - [Mohmod Irfan Shah](https://www.facebook.com/irfanshah.is919)
+
 _Quora_ - [Mohmod Irfan Shah](https://www.quora.com/profile/Mohmod-Irfan-Shah)
+
 _Snapchat_ - [Mohmod Irfan Shah](https://www.snapchat.com/add/mohmodirfanshah)
+
 _Twitter_ - [Mohmod Irfan Shah](https://twitter.com/mohmodirfanshah) 
+
 _Reddit_ - [Mohmod Irfan Shah](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
+
 _mail_ - **muhammodirfanshah@gmail.com**
