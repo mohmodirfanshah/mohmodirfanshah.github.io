@@ -10,11 +10,13 @@ Irfan has two strict rules, “Whoever says that The Shawshank Redemption is the
 To have a good taste in music is a blessing. It depends on his mood what song he will listen to. It can be Bade Ghulam Ali Khan, Bob Dylan, Pt Ravi Shankar, Led Zeppelin, Ustadh Bismillah Khan, Tupac Shakur, Mohsen Namjoo, Iqbal Bano and likes. He usually listens to Urdu, Persian, English, Hindi, Kashmiri songs.
 
 ```markdown
-  Who in the world am I. Ah, that's the great puzzle.
+Who in the world am I. Ah, that's the great puzzle.
 ```
 ## My Book - Surviving the Apocalyptic Society
 
-                                        ![](https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg)
+![](https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg)
+
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 I recently authored a book "Surviving the Apocalyptic Society" which was officially released on 26th of August on Amazon, Kindle, Flipkart and Notion Press. This book presents a sophisticated response to the question of what constitutes social problems and mental health deterioration, with thirteen different entries, giving a range of perspectives on the central problem issues of our generation. It also includes my personal experience and how I managed my stressful life in today's society. It also provides valuable suggestions for social issues and mental health. The topics cover areas of concern connected with physical and mental health, poverty, education, violence and crime, family and social relationships, etc. Every age group from different backgrounds will find this book helpful, whether casual readers or students. My experiences with dating, breakups, literary life, therapists, the world, the arts, family, and social media are all explored in this book. My keen perceptions of the human experience and brilliant clarity will give you a vision of what the current generation is going through, physically, virtually, verbally, socially and mentally.
 
