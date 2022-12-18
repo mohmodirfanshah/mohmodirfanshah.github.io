@@ -38,4 +38,4 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 - [_Snapchat_](https://www.snapchat.com/add/mohmodirfanshah)
 - [_Twitter_](https://twitter.com/mohmodirfanshah) 
 - [_Reddit_](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
-- **muhammodirfanshah@gmail.com**
+- _muhammodirfanshah@gmail.com_
