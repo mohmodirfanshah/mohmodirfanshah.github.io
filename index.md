@@ -39,6 +39,4 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 [![Twitter](https://img.shields.io/badge/-Twitter-1C9CEB?logo=twitter&logoColor=ffffff)](https://twitter.com/mohmodirfanshah)
 [![Reddit](https://img.shields.io/badge/-Reddit-190700?logo=reddit&logoColor=ffffff)](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
 
-[_LinkedIn_](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/) | [_Instagram_](https://www.instagram.com/mohmodirfanshah) | [_Facebook_](https://www.facebook.com/irfanshah.is919) | [_Quora_](https://www.quora.com/profile/Mohmod-Irfan-Shah) | [_Snapchat_](https://www.snapchat.com/add/mohmodirfanshah) | [_Twitter_](https://twitter.com/mohmodirfanshah) | [_Reddit_](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
-
-For any business queries, reach me at _muhammodirfanshah@gmail.com_
+If you have any query, please feel free to contact me at **muhammodirfanshah@gmail.com**
