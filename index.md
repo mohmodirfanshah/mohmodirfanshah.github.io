@@ -14,8 +14,6 @@ Who in the world am I. Ah, that's the great puzzle.
 ```
 ## My Book - Surviving the Apocalyptic Society
 
-![](https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg)
-
 <p align="center">
   <img src="https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg">
 </p>
