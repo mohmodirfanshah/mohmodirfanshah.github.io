@@ -17,7 +17,7 @@ Who in the world am I. Ah, that's the great puzzle.
 ![](https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg)
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="https://m.media-amazon.com/images/I/41uU6ead-2L._SX311_BO1,204,203,200_.jpg">
 </p>
 
 I recently authored a book "Surviving the Apocalyptic Society" which was officially released on 26th of August on Amazon, Kindle, Flipkart and Notion Press. This book presents a sophisticated response to the question of what constitutes social problems and mental health deterioration, with thirteen different entries, giving a range of perspectives on the central problem issues of our generation. It also includes my personal experience and how I managed my stressful life in today's society. It also provides valuable suggestions for social issues and mental health. The topics cover areas of concern connected with physical and mental health, poverty, education, violence and crime, family and social relationships, etc. Every age group from different backgrounds will find this book helpful, whether casual readers or students. My experiences with dating, breakups, literary life, therapists, the world, the arts, family, and social media are all explored in this book. My keen perceptions of the human experience and brilliant clarity will give you a vision of what the current generation is going through, physically, virtually, verbally, socially and mentally.
