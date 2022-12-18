@@ -32,12 +32,12 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 ## Contact
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=#0077B5)](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/)
-[![Instagram](https://img.shields.io/badge/-Instagram-7F7F7F?logo=instagram&logoColor=green)](https://www.instagram.com/mohmodirfanshah)
-[![Facebook](https://img.shields.io/badge/-Facebook-333333?logo=facebook&logoColor=white)](https://www.facebook.com/irfanshah.is919)
-[![Quora](https://img.shields.io/badge/-Quora-%2335495e.svg?logo=quora&logoColor=%white)](https://www.quora.com/profile/Mohmod-Irfan-Shah)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-F7DF1E?logo=snapchat&logoColor=%white)](https://www.snapchat.com/add/mohmodirfanshah)
-[![Twitter](https://img.shields.io/badge/-Twitter-73BA55?logo=twitter&logoColor=white)](https://twitter.com/mohmodirfanshah)
-[![Reddit](https://img.shields.io/badge/-Reddit-E34F26?logo=reddit&logoColor=white)](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
+[![Instagram](https://img.shields.io/badge/-Instagram-F3037A?logo=instagram&logoColor=%white)](https://www.instagram.com/mohmodirfanshah)
+[![Facebook](https://img.shields.io/badge/-Facebook-1977F3?logo=facebook&logoColor=%white)](https://www.facebook.com/irfanshah.is919)
+[![Quora](https://img.shields.io/badge/-Quora-A32200?logo=quora&logoColor=%white)](https://www.quora.com/profile/Mohmod-Irfan-Shah)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-F7F401?logo=snapchat&logoColor=%white)](https://www.snapchat.com/add/mohmodirfanshah)
+[![Twitter](https://img.shields.io/badge/-Twitter-1C9CEB?logo=twitter&logoColor=%white)](https://twitter.com/mohmodirfanshah)
+[![Reddit](https://img.shields.io/badge/-Reddit-190700?logo=reddit&logoColor=%white)](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
 
 [_LinkedIn_](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/) | [_Instagram_](https://www.instagram.com/mohmodirfanshah) | [_Facebook_](https://www.facebook.com/irfanshah.is919) | [_Quora_](https://www.quora.com/profile/Mohmod-Irfan-Shah) | [_Snapchat_](https://www.snapchat.com/add/mohmodirfanshah) | [_Twitter_](https://twitter.com/mohmodirfanshah) | [_Reddit_](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
 
