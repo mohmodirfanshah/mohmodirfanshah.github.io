@@ -31,11 +31,11 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 
 ## Contact
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-black?logo=linkedin&logoColor=%2361DAFB)](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-#0077B5?logo=linkedin&logoColor=#fff)](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/)
 [![Instagram](https://img.shields.io/badge/-Instagram-7F7F7F?logo=instagram&logoColor=green)](https://www.instagram.com/mohmodirfanshah)
 [![Facebook](https://img.shields.io/badge/-Facebook-333333?logo=facebook&logoColor=white)](https://www.facebook.com/irfanshah.is919)
 [![Quora](https://img.shields.io/badge/-Quora-%2335495e.svg?logo=quora&logoColor=%white)](https://www.quora.com/profile/Mohmod-Irfan-Shah)
-[![Snapchat](https://img.shields.io/badge/-Snapchat-F7DF1E?logo=sanapchat&logoColor=%white)](https://www.snapchat.com/add/mohmodirfanshah)
+[![Snapchat](https://img.shields.io/badge/-Snapchat-F7DF1E?logo=snapchat&logoColor=%white)](https://www.snapchat.com/add/mohmodirfanshah)
 [![Twitter](https://img.shields.io/badge/-Twitter-73BA55?logo=twitter&logoColor=white)](https://twitter.com/mohmodirfanshah)
 [![Reddit](https://img.shields.io/badge/-Reddit-E34F26?logo=reddit&logoColor=white)](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share)
 
