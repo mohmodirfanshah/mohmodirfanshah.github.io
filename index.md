@@ -31,6 +31,20 @@ Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Reali
 
 ## Contact
 
-[![Wordpress](https://img.sheilds.io/badge/Wordpress-%23117AC9.svg?logo=Wordpress&logoColor=white)](#)
+[![Reactjs](https://img.shields.io/badge/-Reactjs-black?logo=react&logoColor=%2361DAFB)](#)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-73BA55?logo=node.js&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-7F7F7F?logo=mongodb&logoColor=green)](#)
+[![Express](https://img.shields.io/badge/-Express-333333?logo=express&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%2335495e.svg?logo=javascript&logoColor=%white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=typescript&logoColor=%white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
+[![Tailwind](https://img.shields.io/badge/-Tailwind-44C1F8?logo=tailwindcss&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/aws-172338?logo=amazon&logoColor=ED8732)](#)
+[![Heroku](https://img.shields.io/badge/heroku-3F0096?logo=heroku&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/github-323232?logo=github&logoColor=white)](#)
+[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)](#)
 
 [_LinkedIn_](https://www.linkedin.com/in/mohmod-irfan-shah-4729871bb/) | [_Instagram_](https://www.instagram.com/mohmodirfanshah) | [_Facebook_](https://www.facebook.com/irfanshah.is919) | [_Quora_](https://www.quora.com/profile/Mohmod-Irfan-Shah) | [_Snapchat_](https://www.snapchat.com/add/mohmodirfanshah) | [_Twitter_](https://twitter.com/mohmodirfanshah) | [_Reddit_](https://www.reddit.com/u/mohmodirfanshah?utm_medium=android_app&utm_source=share) | _muhammodirfanshah@gmail.com_
