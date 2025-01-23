@@ -25,7 +25,7 @@ Buy Survivng the Apocalytpic Society here
 
 ## Other Interests
 
-Mohmod Irfan Shah is a Political Enthusiast, an Aesthete, a Feminist and a Realist.
+Mohmod Irfan Shah is a Political Enthusiast, an Aesthete and a Realist.
 
 
 ## Contact
